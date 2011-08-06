@@ -1,11 +1,11 @@
 ABOUT
 ------------
-The C3T-Status-Prowl-PHP-Script is a little PHP script who will continuously check the state of the CCC Trier e. V. clubroom LED. Is the room online you will get an notification via prowl.
+The C3T-Status-Prowl-PHP-Script is a little PHP script which will continuously check the state of the CCC Trier e. V. clubroom LED. If the room is online you will get a notification via prowl.
   
   
 LICENCE
 ------------
-For roundabout 60 lines of PHP code? your kidding, right?
+For roundabout 60 lines of PHP code? You're kidding, right?
    
      
 REQUIREMENTS
